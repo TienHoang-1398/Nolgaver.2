@@ -730,9 +730,9 @@ p {
     .header-hero .shape.shape-1 {
       width: 75px;
       height: 75px;
-      background: -webkit-linear-gradient(rgba(254, 132, 100, 0.5) 0%, rgba(254, 110, 154, 0.5) 100%);
-      background: -o-linear-gradient(rgba(254, 132, 100, 0.5) 0%, rgba(254, 110, 154, 0.5) 100%);
-      background: linear-gradient(rgba(254, 132, 100, 0.5) 0%, rgba(254, 110, 154, 0.5) 100%);
+      background: -webkit-linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+      background: -o-linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+      background: linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
       border-radius: 50%;
       left: 130px;
       top: 25%;
